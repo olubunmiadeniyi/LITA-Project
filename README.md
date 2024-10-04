@@ -17,3 +17,4 @@ My first project while learning Data Analysis with the Incubator Hub
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+

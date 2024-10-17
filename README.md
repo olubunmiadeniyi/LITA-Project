@@ -2,7 +2,7 @@
 My first project while learning Data Analysis with the Incubator Hub
 ## EXCEL
 ## SQL
-## Power BI
+## Power
 ---
 - Data cleaning
 - Data Validation

@@ -18,3 +18,12 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
 
+## TOOLS USED
+- Microsoft Excel
+1. Data cleaning
+2. Data exploraration
+- SQL
+  1. for queryinging
+  2. For Formulas
+- Power BI
+  1. DAta visualisation

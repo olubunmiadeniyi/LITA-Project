@@ -19,7 +19,7 @@ WHERE CONDITION = TRUE
 ```
 
 ## TOOLS USED
-- Microsoft Excel
+- Microsoft Excel [Download here](https://microsoft.com)
 1. Data cleaning
 2. Data exploraration
 - SQL
@@ -27,3 +27,5 @@ WHERE CONDITION = TRUE
   2. For Formulas
 - Power BI
   1. DAta visualisation
+ 
+````
